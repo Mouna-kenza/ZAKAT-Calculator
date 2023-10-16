@@ -1,1 +1,1 @@
-# ZAKAT-Calculator
+# don-Calculator
